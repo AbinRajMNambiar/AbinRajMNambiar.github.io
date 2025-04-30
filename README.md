@@ -1,7 +1,7 @@
 # AbinRajMNambiar
-# Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+#### Technical Skills: C, Python, SQL, Nmap, 
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
