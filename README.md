@@ -1,4 +1,4 @@
-# AbinRajMNambiar
+# Abin Raj M Nambiar
 
 
 #### Technical Skills: C, Python, SQL, Nmap, 
@@ -26,6 +26,20 @@
 [Link](https://github.com/AbinRajMNambiar/Integrated-Vulnerability-Scanner)
 
 Developed an integrated and automated vulnerability assessment framework using Python and Flask, combining both network and web vulnerability scanners. The system streamlines scanning operations by collecting and merging results from multiple tools and utilizes AI-driven analysis to generate meaningful insights. This intelligent approach significantly reduces false positives and manual verification, improving detection accuracy. The final reports are presented through a user-friendly web interface, offering a scalable and accessible solution for comprehensive security assessments. This method enhances threat identification while simplifying the reporting process, enabling faster and more informed remediation decisions.
+
+## Certifications
+- Kaggle Python Programming
+- Advent Of Cyber 2024
+- Carestack Bridge Programme
+- Certified Penetration Tester
+- BXGC Licence to Pentest
+- IBM Cybersecurity Compliance Framework & System Administrator
+- IBM Network Security & Database Vulnerability
+- IBM IT Fundamentals of Cybersecurity Specialisation
+- IBM Penetration Testing, Incident Response and Forensics
+- IBM Cybersecurity Roles Processes and Operating system
+- IBM Introduction to Cybersecurity Tools and Cyber Attacks
+
 
   
 
