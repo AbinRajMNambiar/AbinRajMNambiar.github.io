@@ -7,13 +7,15 @@
 - Btech. Computer Science  | Sree Chitra Tirunal College of Engineering at Trivandrum (_Expected 2026_)								       		
 
 ## Work Experience
-**Cyber Security Intern @ Future Crime Research Foundation (FCRF) (_June 2024 - Aug 2024_)**
+**Cyber Security Intern @ Future Crime Research Foundation (FCRF) 
+(_June 2024 - Aug 2024_)**
 -	Acquired practical knowledge in Digital Forensics and Incident Response (DFIR), including hands-on analysis of network traffic from five real-world simulations, enhancing threat detection capabilities within cybersecurity frameworks.
 -	Analysed five real-world case studies focused on log analysis techniques and network forensics, leading to enhanced understanding of cybersecurity challenges and the identification of critical areas for further investigation.
 -	Engaged in industry expert-led sessions on emerging cybersecurity trends and advanced forensic techniques, gaining actionable insights to enhance practical knowledge and skills in real-world applications.
 
 
-**Ethical Hacking and Penetration Testing Intern @ CDAC Noida (_Jun 2024 – Jul 2024_)**
+**Ethical Hacking and Penetration Testing Intern @ CDAC Noida 
+(_Jun 2024 – Jul 2024_)**
 -	Gained hands-on experience in Ethical Hacking and Penetration Testing, focusing on identifying and exploiting security vulnerabilities.
 -	Worked with industry-standard tools for network scanning and vulnerability assessment.
 -	Strengthened expertise in web and network security
