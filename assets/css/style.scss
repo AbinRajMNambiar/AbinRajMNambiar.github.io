@@ -1,0 +1,36 @@
+
+
+@import "jekyll-theme-minimal";
+:root {
+  --text-color: #333; // Example light mode text color
+  --background-color: #fff; // Example light mode background color
+  // Add more variables for other colors used in your theme
+  --link-color: #007bff;
+  --heading-color: #222;
+}
+
+// Define CSS variables for colors in the dark scheme
+// This media query applies styles when the user's system prefers a dark color scheme
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #eee; // Example dark mode text color
+    --background-color: #1e1e1e; // Example dark mode background color
+    // Add corresponding dark mode values for your variables
+    --link-color: #89b4fa;
+    --heading-color: #f0f0f0;
+  }
+}
+
+// Apply the CSS variables to relevant elements
+body {
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+}
